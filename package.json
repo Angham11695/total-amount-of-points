@@ -1,0 +1,23 @@
+{
+  "name": "total-amount-of-points",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angham11695/total-amount-of-points.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angham11695/total-amount-of-points/issues"
+  },
+  "homepage": "https://github.com/Angham11695/total-amount-of-points#readme",
+  "devDependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^4.10.1"
+  }
+}
